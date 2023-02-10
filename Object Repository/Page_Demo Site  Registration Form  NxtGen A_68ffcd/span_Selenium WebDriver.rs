@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selenium WebDriver</name>
+   <tag></tag>
+   <elementGuidId>13abf17f-c9d6-42f6-abca-ee2f68e91fdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#item-vfb-20 > div > span.vfb-span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-20']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d31a6e95-2742-42f4-b549-e04799836734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-span</value>
+      <webElementGuid>942b3d19-fb60-4200-86a3-fc29ef0f6982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium WebDriver</value>
+      <webElementGuid>2aa92d87-2fdd-4cb3-b363-351c95498d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-20&quot;)/div[1]/span[@class=&quot;vfb-span&quot;]</value>
+      <webElementGuid>b948cb9d-5928-4c66-a4b9-fae0e2c16f39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-20']/div/span</value>
+      <webElementGuid>1f04886b-feb5-4e18-b845-cb267d5e6060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Interested'])[1]/following::span[1]</value>
+      <webElementGuid>a936cc3e-c13b-4911-9a88-b0a16c7d1307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number'])[1]/following::span[1]</value>
+      <webElementGuid>e552bec2-9c46-4e5d-8aa8-70af4c2d1f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UFT'])[1]/preceding::span[1]</value>
+      <webElementGuid>80265cc3-a377-4e89-8074-c1472f53e521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/span</value>
+      <webElementGuid>2f391984-ac89-4336-8d99-28591b0ccbb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selenium WebDriver' or . = 'Selenium WebDriver')]</value>
+      <webElementGuid>b65cd9c9-7f1a-4f1b-91f9-8385839b73a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Enter your query</name>
+   <tag></tag>
+   <elementGuidId>5fcdbaa9-f564-4a14-8d4a-31e3758902e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#item-vfb-23 > label.vfb-desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-23']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8538832f-161c-4123-8c4c-a5e571d61565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>vfb-23</value>
+      <webElementGuid>bc4801b4-f6b0-4051-b0e1-504d53322344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-desc</value>
+      <webElementGuid>c989168c-a555-422a-aa19-6c49879492e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter your query </value>
+      <webElementGuid>65c55f82-961a-465a-a6c5-26985b480d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-23&quot;)/label[@class=&quot;vfb-desc&quot;]</value>
+      <webElementGuid>556e26d4-8170-48c3-993e-8d633cba6189</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-23']/label</value>
+      <webElementGuid>9e940989-f6da-4db3-ad3f-59caf8534bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[2]/following::label[1]</value>
+      <webElementGuid>82648d9f-deca-409b-8f72-328220984f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Functional Testing'])[1]/following::label[2]</value>
+      <webElementGuid>9be17bd1-8233-4e2c-82e9-48c474fffa84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verification'])[1]/preceding::label[1]</value>
+      <webElementGuid>95ba6bb7-855b-49f0-acd3-0e6750c44537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter your query']/parent::*</value>
+      <webElementGuid>b4c1266e-6756-40ac-9d2f-ceded6d21379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/label</value>
+      <webElementGuid>72032485-ea6c-45e0-a137-50c3a9a889bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Enter your query ' or . = 'Enter your query ')]</value>
+      <webElementGuid>38731449-8d17-4ccd-bb44-a4ffb926a870</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
